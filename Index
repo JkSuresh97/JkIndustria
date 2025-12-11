@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>JK Adhesive Tapes | Home</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <img src="logo.png" alt="JK Logo" class="logo">
+    <nav class="menu">
+      <a href="index.html">Home</a>
+      <a href="products.html">Products</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="hero-content">
+    <h1>JK ADHESIVE TAPES</h1>
+    <p>High Bond Strength • Industrial Quality • Premium Adhesion</p>
+    <a class="btn" href="products.html">View Products</a>
+  </div>
+</section>
+
+<section class="about">
+  <h2>About JK Industria</h2>
+  <p>We manufacture premium quality BOPP & adhesive tapes trusted by industries. Superior grip, long-lasting adhesion & custom printed tapes available.</p>
+</section>
+
+<!-- WhatsApp quick -->
+<a class="whatsapp" href="https://wa.me/919468953533?text=Hello%20JK%20Industria%2C%20I%20want%20to%20enquire%20about%20your%20tapes." target="_blank" rel="noopener">WhatsApp</a>
+
+<footer>
+  <p>© JK Adhesive Tapes — JK INDUSTRIA, 23 West Massi, Madurai, Tamil Nadu – 625001</p>
+</footer>
+
+</body>
+</html>
